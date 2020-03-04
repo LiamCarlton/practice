@@ -35,7 +35,7 @@
         android:id="@+id/textView"
         android:layout_width="222dp"
         android:layout_height="67dp"
-        android:text="Hello ya beautiful lads!"
+        android:text="Changing the text from git!"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="34dp"
         tools:layout_editor_absoluteY="118dp" />
