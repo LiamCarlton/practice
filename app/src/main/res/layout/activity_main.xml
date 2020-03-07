@@ -35,6 +35,8 @@
         android:id="@+id/textView"
         android:layout_width="222dp"
         android:layout_height="67dp"
+        android:text="hi raj"
+        tools:layout_editor_absoluteY="56dp" />
 <<<<<<< HEAD
         android:text="Magicman"
 =======
