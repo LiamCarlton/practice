@@ -35,11 +35,26 @@
         android:id="@+id/textView"
         android:layout_width="222dp"
         android:layout_height="67dp"
+<<<<<<< HEAD
         android:layout_marginStart="16dp"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="153dp" />
 
     <<<<<<< HEAD
+=======
+        android:text="hi raj"
+        tools:layout_editor_absoluteY="56dp" />
+<<<<<<< HEAD
+>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="137dp" />>>>>>> 7a546096a02767592265724e0925d5dc2c4ad5f8
         android:text="Magicman"
 =======
         android:text="pls work"
