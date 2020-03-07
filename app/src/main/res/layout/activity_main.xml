@@ -31,12 +31,52 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
+<<<<<<< HEAD
+=======
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="222dp"
+        android:layout_height="67dp"
+<<<<<<< HEAD
+        android:layout_marginStart="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="153dp" />
+
+    <<<<<<< HEAD
+=======
+        android:text="hi raj"
+        tools:layout_editor_absoluteY="56dp" />
+<<<<<<< HEAD
+>
+
+>>>>>>> 76af3de02ba5326ee447edef599cca14dbe9d7f4
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
+<<<<<<< HEAD
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_absoluteY="178dp" />
+=======
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="137dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="137dp" />>>>>>> 7a546096a02767592265724e0925d5dc2c4ad5f8
+        android:text="Magicman"
+=======
+        android:text="pls work"
+>>>>>>> dc28e5c9b45a26a7825f194f39660ed2d65941d4
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="118dp" />
+>>>>>>> 76af3de02ba5326ee447edef599cca14dbe9d7f4
 
 </androidx.constraintlayout.widget.ConstraintLayout>
