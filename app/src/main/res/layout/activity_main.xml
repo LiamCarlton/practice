@@ -31,13 +31,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="222dp"
-        android:layout_height="67dp"
-        android:text="Hows it going lads!"
-        android:textSize="24sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="118dp" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="178dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
