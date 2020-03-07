@@ -35,7 +35,11 @@
         android:id="@+id/textView"
         android:layout_width="222dp"
         android:layout_height="67dp"
+<<<<<<< HEAD
         android:text="Magicman"
+=======
+        android:text="pls work"
+>>>>>>> dc28e5c9b45a26a7825f194f39660ed2d65941d4
         android:textSize="24sp"
         tools:layout_editor_absoluteX="34dp"
         tools:layout_editor_absoluteY="118dp" />
